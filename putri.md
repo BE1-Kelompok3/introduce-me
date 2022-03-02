@@ -1,0 +1,4 @@
+# Putri
+## Version Control
+### SDLC
+....
